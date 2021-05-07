@@ -1,0 +1,19 @@
+body{ 
+    background-color: blueviolet;
+}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+color: yellowgreen;
+font-size: 40pt;
+}
+
+h2{
+    font-family: cursive;
+color: mintcream ;
+font-size: 30pt;}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20pt;
+color:#FFD700;
+text-align: justify;
+text-indent: 20pt;
+}
